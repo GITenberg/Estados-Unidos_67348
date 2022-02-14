@@ -1,0 +1,34 @@
+_repo: Estados-Unidos_67348
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sarmiento, Domingo Faustino
+    aliases:
+    - Sarmiento, Domingo F. (Domingo Faustino)
+    - Sarmiento, D. F. (Domingo Faustino)
+    birthdate: 1811
+    deathdate: 1888
+    gutenberg_agent_id: '36297'
+    url: http://www.gutenberg.org/2009/agents/36297
+    wikipedia:
+    - https://es.wikipedia.org/wiki/Domingo_Faustino_Sarmiento
+    - https://en.wikipedia.org/wiki/Domingo_Faustino_Sarmiento
+description: ''
+gutenberg_issued: '2022-02-07'
+identifiers:
+  gutenberg: '67348'
+language: es
+pgterms:marc905: 20070114180710sarmiento
+pgterms:marc906: '1922'
+pgterms:marc907: AR
+production_note: Adrian Mastronardi and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: Argentina :Vaccaro,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Estados Unidos
+url: http://www.gutenberg.org/ebooks/67348
