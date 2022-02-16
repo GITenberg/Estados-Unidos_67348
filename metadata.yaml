@@ -1,5 +1,8 @@
 _repo: Estados-Unidos_67348
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67348-h/images/cover.jpg
 creator:
   author:
     agent_name: Sarmiento, Domingo Faustino
@@ -14,6 +17,8 @@ creator:
     - https://es.wikipedia.org/wiki/Domingo_Faustino_Sarmiento
     - https://en.wikipedia.org/wiki/Domingo_Faustino_Sarmiento
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67348#Estados-Unidos
 gutenberg_issued: '2022-02-07'
 identifiers:
   gutenberg: '67348'
